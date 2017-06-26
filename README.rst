@@ -1588,7 +1588,7 @@ Dependencies
 
 Under the hood, HTTPie uses these two amazing libraries:
 
-* `Requests <http://python-requests.org>`_
+* `Requests <https://github.com/requests/requests>`_
   — Python HTTP library for humans
 * `Pygments <http://pygments.org/>`_
   — Python syntax highlighter
